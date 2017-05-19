@@ -8,4 +8,6 @@
 ----
 **更多的阅读：**
 
+* [Learn ES2015](https://babeljs.io/learn-es2015/)
+* [ECMAScript 6 入门](http://es6.ruanyifeng.com/#docs/let)
 * [ES6的学习笔记and代码练习](https://github.com/SimplyWenjing/ES6)
