@@ -6,7 +6,7 @@
 
 ----
 
-**更多的阅读：**
+**更多的学习：**
 
 * [Learn ES2015](https://babeljs.io/learn-es2015/)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/#docs/let)
